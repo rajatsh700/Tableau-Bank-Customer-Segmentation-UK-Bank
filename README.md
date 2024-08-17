@@ -16,3 +16,11 @@ enabling more targeted marketing efforts, better customer retention strategies, 
 visualizations in the dashboard make it easy for stakeholders to explore the data, identify key segments, and make informed decisions
 based on the findings. Ultimately, this project empowers businesses to leverage data-driven insights to foster growth and improve
 customer satisfaction.
+
+![image](https://github.com/user-attachments/assets/12c90115-715f-4f2b-81c9-f84e3af5b133)
+
+![image](https://github.com/user-attachments/assets/01371e1a-c3cd-4177-993b-231ad3ab99c6)
+
+![image](https://github.com/user-attachments/assets/7fbb4f2a-7e5a-4c40-b47c-af0f9d40b673)
+
+![image](https://github.com/user-attachments/assets/2536eb64-2a0e-4bd4-96ee-f494c1c41219)
