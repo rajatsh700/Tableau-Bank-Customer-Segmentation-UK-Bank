@@ -17,7 +17,7 @@ visualizations in the dashboard make it easy for stakeholders to explore the dat
 based on the findings. Ultimately, this project empowers businesses to leverage data-driven insights to foster growth and improve
 customer satisfaction.
 
-![image](https://github.com/user-attachments/assets/12c90115-715f-4f2b-81c9-f84e3af5b133)
+
 
 ![image](https://github.com/user-attachments/assets/01371e1a-c3cd-4177-993b-231ad3ab99c6)
 
